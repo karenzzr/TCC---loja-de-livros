@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    background-color: rgb(37, 162, 179);
+    font-size: 3%;
+    height: 14vh;
+    position: relative;
+}
+
+nav img {
+    width: 7%;
+
+}
+
+
+header {
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    width: 100vw;
+    height: 10vh;
+}
